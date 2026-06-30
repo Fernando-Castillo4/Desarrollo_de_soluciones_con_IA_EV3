@@ -53,11 +53,11 @@ ET_oluciones_con_IA/
 
 Clona el repositorio:
 
-git clone https://github.com/Fernando-Castillo4/ET_Soluciones_con_IA.git
+git clone https://github.com/Fernando-Castillo4/Desarrollo_de_soluciones_con_IA_EV3.git
 
 Entra al proyecto y instala dependencias.
 
-Para ejecutar el proyecto, debe agregar su token de github modelo gpt -4.1, luego iniciar todas las celdas de codigo una por una o presionando el boton "Run All", la ultima celda soltara un mensaje y estara listo para utilizar
+Para ejecutar el proyecto, debe agregar su token de github modelo gpt -4.1, iniciar el proyecto desde el terminal con strimlit run chatbot.py o con python -m streamlit run chatbot.py 
 
 Ejemplo de uso:
 Usuario ¿Qué me recomiendas hacer antes de una operacion?
